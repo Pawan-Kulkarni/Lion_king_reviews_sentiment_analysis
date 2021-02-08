@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+statsmodels
+gensim
+PIL
+wordcloud
+spacy
+sklearn
+scipy
+imblearn
+xgboost
+keras
